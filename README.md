@@ -1,4 +1,4 @@
-# Big_Data_project Part 1
+# Big_Data_project
 
 ## Contributors
 Hezhi Wang  (hw1567)
@@ -20,6 +20,7 @@ Two datasets are combined as one and analyzed.
 
 Dataset is also available on NYU HPC HDFS, **/user/jub205/311all.csv**
 
+## Part 1
 ## Data Quality Issues
 We first generated columns.txt for base type and semantic type of each columns, which can be accessed at **/user/jub205/columns.txt**.
 
